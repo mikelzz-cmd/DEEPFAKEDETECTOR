@@ -94,7 +94,7 @@ with st.sidebar:
     st.markdown("● <span class='status-active'>DATABASE: CONNECTED</span>", unsafe_allow_html=True)
     
     st.divider()
-    st.info("💡 **Calibration:** System tuned to ignore high-pitched human frequencies (1000-1200Hz) and target digital signatures (2000Hz+).")
+    st.info("💡 **Calibration:** System is optimized using adaptive audio filtering, noise reduction, and speech feature extraction to distinguish human voice signals from background noise and non-speech audio patterns.")
 
 # 4. Main UI Layout
 col_main, col_stats = st.columns([2, 1])
