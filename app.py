@@ -109,8 +109,8 @@ rms_var = 0.0
 y, sr = None, None
 
 with col_main:
-    st.title("VishingGuard Audio Forensics")
-    st.caption("Industrial-grade AI Voice Synthesis Detection")
+    st.title("VishingGuard Audio ")
+    st.caption("AI Voice Detection")
     
     input_tab1, input_tab2 = st.tabs(["🎙️ LIVE RECORD", "📂 UPLOAD FILE"])
     
